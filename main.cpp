@@ -8,5 +8,7 @@ int main()
     foo();
     boo();
     std::cout << "9 + 10 = 19\n";
+
+    sum(5,6);
     return 0;
 }
